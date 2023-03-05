@@ -2,6 +2,8 @@
  The assistant bot should become a prototype of an assistant application for us.
 
 List of commands:
+
+
     1) to add new contact and one or more phones, write command: add {name} {phone number} {phone number} {phone number}
     2) to remove contact, write command: remove contact {name}
 
